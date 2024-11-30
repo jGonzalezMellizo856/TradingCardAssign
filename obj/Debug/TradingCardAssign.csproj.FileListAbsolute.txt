@@ -1,0 +1,13 @@
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.csproj.AssemblyReference.cache
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.Form1.resources
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.Properties.Resources.resources
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.csproj.GenerateResource.cache
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.csproj.CoreCompileInputs.cache
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.exe
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\obj\Debug\TradingCardAssign.pdb
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\Properties\photos\jaysonTatum.jpg
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\TradingCardAssign.exe.config
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\TradingCardAssign.exe
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\TradingCardAssign.pdb
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\Properties\photos\kevin_durant.jpg
+C:\Users\nafia\Downloads\TradingCardAssign-master\TradingCardAssign-master\bin\Debug\Properties\photos\klay-thompson.png
