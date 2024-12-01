@@ -73,6 +73,16 @@ namespace TradingCardAssign.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap damian_lillard {
+            get {
+                object obj = ResourceManager.GetObject("damian_lillard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap devin_booker {
             get {
                 object obj = ResourceManager.GetObject("devin_booker", resourceCulture);
@@ -86,6 +96,26 @@ namespace TradingCardAssign.Properties {
         internal static System.Drawing.Bitmap Giannis_Antetokounmpo {
             get {
                 object obj = ResourceManager.GetObject("Giannis_Antetokounmpo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jaylen_brown {
+            get {
+                object obj = ResourceManager.GetObject("jaylen_brown", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jayson_tatum {
+            get {
+                object obj = ResourceManager.GetObject("jayson_tatum", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
